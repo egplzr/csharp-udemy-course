@@ -1,0 +1,14 @@
+d:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\SecondSectionCodes\bin\Debug\net9.0\SecondSectionCodes.exe
+D:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\SecondSectionCodes\bin\Debug\net9.0\SecondSectionCodes.deps.json
+D:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\SecondSectionCodes\bin\Debug\net9.0\SecondSectionCodes.runtimeconfig.json
+d:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\SecondSectionCodes\bin\Debug\net9.0\SecondSectionCodes.dll
+d:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\SecondSectionCodes\bin\Debug\net9.0\SecondSectionCodes.pdb
+d:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\SecondSectionCodes\obj\Debug\net9.0\SecondSectionCodes.GeneratedMSBuildEditorConfig.editorconfig
+d:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\SecondSectionCodes\obj\Debug\net9.0\SecondSectionCodes.AssemblyInfoInputs.cache
+d:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\SecondSectionCodes\obj\Debug\net9.0\SecondSectionCodes.AssemblyInfo.cs
+d:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\SecondSectionCodes\obj\Debug\net9.0\SecondSectionCodes.csproj.CoreCompileInputs.cache
+d:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\SecondSectionCodes\obj\Debug\net9.0\SecondSectionCodes.dll
+d:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\SecondSectionCodes\obj\Debug\net9.0\refint\SecondSectionCodes.dll
+d:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\SecondSectionCodes\obj\Debug\net9.0\SecondSectionCodes.pdb
+D:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\SecondSectionCodes\obj\Debug\net9.0\SecondSectionCodes.genruntimeconfig.cache
+D:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\SecondSectionCodes\obj\Debug\net9.0\ref\SecondSectionCodes.dll

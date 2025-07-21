@@ -1,0 +1,14 @@
+d:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\ThirdSectionCodes\bin\Debug\net9.0\ThirdSectionCodes.exe
+D:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\ThirdSectionCodes\bin\Debug\net9.0\ThirdSectionCodes.deps.json
+D:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\ThirdSectionCodes\bin\Debug\net9.0\ThirdSectionCodes.runtimeconfig.json
+d:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\ThirdSectionCodes\bin\Debug\net9.0\ThirdSectionCodes.dll
+d:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\ThirdSectionCodes\bin\Debug\net9.0\ThirdSectionCodes.pdb
+d:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\ThirdSectionCodes\obj\Debug\net9.0\ThirdSectionCodes.GeneratedMSBuildEditorConfig.editorconfig
+d:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\ThirdSectionCodes\obj\Debug\net9.0\ThirdSectionCodes.AssemblyInfoInputs.cache
+d:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\ThirdSectionCodes\obj\Debug\net9.0\ThirdSectionCodes.AssemblyInfo.cs
+d:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\ThirdSectionCodes\obj\Debug\net9.0\ThirdSectionCodes.csproj.CoreCompileInputs.cache
+d:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\ThirdSectionCodes\obj\Debug\net9.0\ThirdSectionCodes.dll
+d:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\ThirdSectionCodes\obj\Debug\net9.0\refint\ThirdSectionCodes.dll
+d:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\ThirdSectionCodes\obj\Debug\net9.0\ThirdSectionCodes.pdb
+D:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\ThirdSectionCodes\obj\Debug\net9.0\ThirdSectionCodes.genruntimeconfig.cache
+D:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\ThirdSectionCodes\obj\Debug\net9.0\ref\ThirdSectionCodes.dll

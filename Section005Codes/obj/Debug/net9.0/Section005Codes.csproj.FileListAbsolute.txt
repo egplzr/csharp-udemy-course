@@ -1,0 +1,14 @@
+d:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\Section005Codes\bin\Debug\net9.0\Section005Codes.exe
+D:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\Section005Codes\bin\Debug\net9.0\Section005Codes.deps.json
+D:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\Section005Codes\bin\Debug\net9.0\Section005Codes.runtimeconfig.json
+d:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\Section005Codes\bin\Debug\net9.0\Section005Codes.dll
+d:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\Section005Codes\bin\Debug\net9.0\Section005Codes.pdb
+d:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\Section005Codes\obj\Debug\net9.0\Section005Codes.GeneratedMSBuildEditorConfig.editorconfig
+d:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\Section005Codes\obj\Debug\net9.0\Section005Codes.AssemblyInfoInputs.cache
+d:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\Section005Codes\obj\Debug\net9.0\Section005Codes.AssemblyInfo.cs
+d:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\Section005Codes\obj\Debug\net9.0\Section005Codes.csproj.CoreCompileInputs.cache
+d:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\Section005Codes\obj\Debug\net9.0\Section005Codes.dll
+d:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\Section005Codes\obj\Debug\net9.0\refint\Section005Codes.dll
+d:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\Section005Codes\obj\Debug\net9.0\Section005Codes.pdb
+D:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\Section005Codes\obj\Debug\net9.0\Section005Codes.genruntimeconfig.cache
+D:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\Section005Codes\obj\Debug\net9.0\ref\Section005Codes.dll

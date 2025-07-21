@@ -1,0 +1,14 @@
+d:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\FourthSectionCodes\obj\Debug\net9.0\FourthSectionCodes.GeneratedMSBuildEditorConfig.editorconfig
+d:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\FourthSectionCodes\obj\Debug\net9.0\FourthSectionCodes.AssemblyInfoInputs.cache
+d:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\FourthSectionCodes\obj\Debug\net9.0\FourthSectionCodes.AssemblyInfo.cs
+d:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\FourthSectionCodes\obj\Debug\net9.0\FourthSectionCodes.csproj.CoreCompileInputs.cache
+d:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\FourthSectionCodes\bin\Debug\net9.0\FourthSectionCodes.exe
+D:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\FourthSectionCodes\bin\Debug\net9.0\FourthSectionCodes.deps.json
+D:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\FourthSectionCodes\bin\Debug\net9.0\FourthSectionCodes.runtimeconfig.json
+d:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\FourthSectionCodes\bin\Debug\net9.0\FourthSectionCodes.dll
+d:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\FourthSectionCodes\bin\Debug\net9.0\FourthSectionCodes.pdb
+d:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\FourthSectionCodes\obj\Debug\net9.0\FourthSectionCodes.dll
+d:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\FourthSectionCodes\obj\Debug\net9.0\refint\FourthSectionCodes.dll
+d:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\FourthSectionCodes\obj\Debug\net9.0\FourthSectionCodes.pdb
+D:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\FourthSectionCodes\obj\Debug\net9.0\FourthSectionCodes.genruntimeconfig.cache
+D:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\FourthSectionCodes\obj\Debug\net9.0\ref\FourthSectionCodes.dll
