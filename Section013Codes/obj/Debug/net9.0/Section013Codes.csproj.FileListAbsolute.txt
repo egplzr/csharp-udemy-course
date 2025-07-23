@@ -1,0 +1,15 @@
+d:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\Section013Codes\bin\Debug\net9.0\Section013Codes.exe
+D:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\Section013Codes\bin\Debug\net9.0\Section013Codes.deps.json
+D:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\Section013Codes\bin\Debug\net9.0\Section013Codes.runtimeconfig.json
+d:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\Section013Codes\bin\Debug\net9.0\Section013Codes.dll
+d:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\Section013Codes\bin\Debug\net9.0\Section013Codes.pdb
+d:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\Section013Codes\obj\Debug\net9.0\Section013Codes.GeneratedMSBuildEditorConfig.editorconfig
+d:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\Section013Codes\obj\Debug\net9.0\Section013Codes.AssemblyInfoInputs.cache
+d:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\Section013Codes\obj\Debug\net9.0\Section013Codes.AssemblyInfo.cs
+d:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\Section013Codes\obj\Debug\net9.0\Section013Codes.csproj.CoreCompileInputs.cache
+d:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\Section013Codes\obj\Debug\net9.0\Section013Codes.sourcelink.json
+d:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\Section013Codes\obj\Debug\net9.0\Section013Codes.dll
+d:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\Section013Codes\obj\Debug\net9.0\refint\Section013Codes.dll
+d:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\Section013Codes\obj\Debug\net9.0\Section013Codes.pdb
+D:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\Section013Codes\obj\Debug\net9.0\Section013Codes.genruntimeconfig.cache
+D:\EEEenxxeee\Documents\MainProjects\UDEMY\C#Poo\code\Section013Codes\obj\Debug\net9.0\ref\Section013Codes.dll
