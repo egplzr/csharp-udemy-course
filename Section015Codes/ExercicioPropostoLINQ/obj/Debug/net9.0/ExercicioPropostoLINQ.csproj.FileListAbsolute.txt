@@ -1,0 +1,14 @@
+C:\Users\EEEenxxeee\Desktop\ExercicioPropostoLINQ\bin\Debug\net9.0\ExercicioPropostoLINQ.exe
+C:\Users\EEEenxxeee\Desktop\ExercicioPropostoLINQ\bin\Debug\net9.0\ExercicioPropostoLINQ.deps.json
+C:\Users\EEEenxxeee\Desktop\ExercicioPropostoLINQ\bin\Debug\net9.0\ExercicioPropostoLINQ.runtimeconfig.json
+C:\Users\EEEenxxeee\Desktop\ExercicioPropostoLINQ\bin\Debug\net9.0\ExercicioPropostoLINQ.dll
+C:\Users\EEEenxxeee\Desktop\ExercicioPropostoLINQ\bin\Debug\net9.0\ExercicioPropostoLINQ.pdb
+C:\Users\EEEenxxeee\Desktop\ExercicioPropostoLINQ\obj\Debug\net9.0\ExercicioPropostoLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EEEenxxeee\Desktop\ExercicioPropostoLINQ\obj\Debug\net9.0\ExercicioPropostoLINQ.AssemblyInfoInputs.cache
+C:\Users\EEEenxxeee\Desktop\ExercicioPropostoLINQ\obj\Debug\net9.0\ExercicioPropostoLINQ.AssemblyInfo.cs
+C:\Users\EEEenxxeee\Desktop\ExercicioPropostoLINQ\obj\Debug\net9.0\ExercicioPropostoLINQ.csproj.CoreCompileInputs.cache
+C:\Users\EEEenxxeee\Desktop\ExercicioPropostoLINQ\obj\Debug\net9.0\ExercicioPropostoLINQ.dll
+C:\Users\EEEenxxeee\Desktop\ExercicioPropostoLINQ\obj\Debug\net9.0\refint\ExercicioPropostoLINQ.dll
+C:\Users\EEEenxxeee\Desktop\ExercicioPropostoLINQ\obj\Debug\net9.0\ExercicioPropostoLINQ.pdb
+C:\Users\EEEenxxeee\Desktop\ExercicioPropostoLINQ\obj\Debug\net9.0\ExercicioPropostoLINQ.genruntimeconfig.cache
+C:\Users\EEEenxxeee\Desktop\ExercicioPropostoLINQ\obj\Debug\net9.0\ref\ExercicioPropostoLINQ.dll

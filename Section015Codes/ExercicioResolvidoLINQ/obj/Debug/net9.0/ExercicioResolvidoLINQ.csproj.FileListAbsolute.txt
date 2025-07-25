@@ -1,0 +1,14 @@
+c:\Users\EEEenxxeee\Desktop\ExercicioResolvidoLINQ\bin\Debug\net9.0\ExercicioResolvidoLINQ.exe
+C:\Users\EEEenxxeee\Desktop\ExercicioResolvidoLINQ\bin\Debug\net9.0\ExercicioResolvidoLINQ.deps.json
+C:\Users\EEEenxxeee\Desktop\ExercicioResolvidoLINQ\bin\Debug\net9.0\ExercicioResolvidoLINQ.runtimeconfig.json
+c:\Users\EEEenxxeee\Desktop\ExercicioResolvidoLINQ\bin\Debug\net9.0\ExercicioResolvidoLINQ.dll
+c:\Users\EEEenxxeee\Desktop\ExercicioResolvidoLINQ\bin\Debug\net9.0\ExercicioResolvidoLINQ.pdb
+c:\Users\EEEenxxeee\Desktop\ExercicioResolvidoLINQ\obj\Debug\net9.0\ExercicioResolvidoLINQ.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\EEEenxxeee\Desktop\ExercicioResolvidoLINQ\obj\Debug\net9.0\ExercicioResolvidoLINQ.AssemblyInfoInputs.cache
+c:\Users\EEEenxxeee\Desktop\ExercicioResolvidoLINQ\obj\Debug\net9.0\ExercicioResolvidoLINQ.AssemblyInfo.cs
+c:\Users\EEEenxxeee\Desktop\ExercicioResolvidoLINQ\obj\Debug\net9.0\ExercicioResolvidoLINQ.csproj.CoreCompileInputs.cache
+c:\Users\EEEenxxeee\Desktop\ExercicioResolvidoLINQ\obj\Debug\net9.0\ExercicioResolvidoLINQ.dll
+c:\Users\EEEenxxeee\Desktop\ExercicioResolvidoLINQ\obj\Debug\net9.0\refint\ExercicioResolvidoLINQ.dll
+c:\Users\EEEenxxeee\Desktop\ExercicioResolvidoLINQ\obj\Debug\net9.0\ExercicioResolvidoLINQ.pdb
+C:\Users\EEEenxxeee\Desktop\ExercicioResolvidoLINQ\obj\Debug\net9.0\ExercicioResolvidoLINQ.genruntimeconfig.cache
+C:\Users\EEEenxxeee\Desktop\ExercicioResolvidoLINQ\obj\Debug\net9.0\ref\ExercicioResolvidoLINQ.dll
